@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "allowJs": true,
+    "target": "ES2022"
+  },
+  "exclude": ["node_modules", "dist", ".github", ".git", ".vscode", ".husky"]
+}
